@@ -1,7 +1,7 @@
 ## 📊 Projects
 
 ### 1. Bar Chart - US GDP Visualization
-![Bar Chart Preview](./screenshots/barchart.png)
+![Bar Chart Preview](./Screenshots/barchart.png)
 
 **Tech Stack:** D3.js, HTML5, CSS3, JavaScript  
 **Description:** Visualizes US GDP data from 1947 to 2015 using D3.js bar chart with tooltip interactions.  
@@ -11,7 +11,7 @@
 ---
 
 ### 2. Scatterplot Graph - Doping in Cycling
-![Scatterplot Preview](./screenshots/scatterplot.png)
+![Scatterplot Preview](./Screenshots/scatterplot.png)
 
 **Tech Stack:** D3.js, HTML5, CSS3, JavaScript  
 **Description:** Scatter plot showing cyclist doping allegations with time vs. rank correlation.  
