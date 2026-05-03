@@ -1,0 +1,31 @@
+#title, #subtitle{
+  text-align:center;
+  margin:0;
+}
+#subtitle{
+  font-size:24px;
+}
+#tooltip{
+  height:auto;
+  width:auto;
+  background-color:darkgrey;
+  opacity:0;
+  transition:opacity 0.2s ease;
+  border-radius:8px;
+  font-size:13px;
+  position:absolute;
+  padding:5px;
+  color:black;
+}
+#tooltip * {
+  margin:0;
+}
+#container{
+  width: 900px;
+  height: 700px;
+  border: 1px solid grey;
+  margin: 10px auto;
+  box-shadow: 0 0 15px 0 grey;
+  padding:15px;
+
+}
