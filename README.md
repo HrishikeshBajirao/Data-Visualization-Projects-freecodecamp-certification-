@@ -21,7 +21,7 @@
 ---
 
 ### 3. Heat Map - Monthly Global Land-Surface Temperature
-<img src="./Screenshots/heatmap.png" alt="My chart" width="600">
+<img src="./Screenshots/heatmap.png" alt="My chart" width="800">
 
 **Tech Stack:** D3.js, HTML5, CSS3, JavaScript  
 **Description:** Heat map visualizing monthly global land-surface temperatures from 1753 to 2015 with color-scaled variance and tooltip interactions.  
